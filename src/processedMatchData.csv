@@ -1,0 +1,26 @@
+Team,Player Name,Week Number,Date,Match Type,GPS System,Opponent,Period Name,Period Number,Total Duration,Total Distance,HSRD > 20,HSRD > 25,HSRD > 30,HSRE > 20,HSRE > 25,HSRE > 30,Maximum Velocity,Acceleration Efforts > 2,Deceleration Efforts > 2,Acceleration Efforts > 3,Deceleration Efforts > 3,Acceleration Efforts > 4,Deceleration Efforts > 4,Playerload 3D,Explosive Efforts,EMD,HMPE,HMLD,Half
+1,Augustin Drakpe,28,10/03/2025,Competition,10,VVV Venlo,1,2,46,5394,340,29,0,21,2,0,29,56,54,12,17,1,2,586,14,6220,186,418,1
+1,Augustin Drakpe,28,10/03/2025,Competition,10,VVV Venlo,46,3,28,3027,193,37,0,15,3,0,29,36,37,8,14,2,4,313,7,3522,106,262,2
+1,Chiel Olde Keizer,28,10/03/2025,Competition,10,VVV Venlo,1,2,46,5653,412,145,0,22,7,0,29,64,80,9,29,0,6,506,19,6663,195,546,1
+1,Chiel Olde Keizer,28,10/03/2025,Competition,10,VVV Venlo,46,3,12,1202,98,0,0,8,0,0,25,14,17,4,5,1,2,115,5,1426,39,114,2
+1,Daniel van Vianen,28,10/03/2025,Competition,10,VVV Venlo,1,2,46,6110,683,41,0,38,3,0,27,59,70,13,19,0,1,581,7,7060,241,711,1
+1,Daniel van Vianen,28,10/03/2025,Competition,10,VVV Venlo,46,3,49,5433,392,28,0,24,2,0,26,64,79,12,18,1,2,530,20,6289,197,483,2
+1,Devin Haen,28,10/03/2025,Competition,10,VVV Venlo,1,2,46,5738,595,54,0,28,2,0,29,57,61,16,17,0,6,599,13,6562,190,593,1
+1,Devin Haen,28,10/03/2025,Competition,10,VVV Venlo,46,3,49,5084,368,44,0,22,2,0,28,48,46,18,12,0,4,525,16,5787,145,425,2
+1,Gabriele Parlanti,28,10/03/2025,Competition,10,VVV Venlo,1,2,46,5953,534,78,8,26,5,0,30,55,69,14,24,1,3,590,22,6845,191,524,1
+1,Gabriele Parlanti,28,10/03/2025,Competition,10,VVV Venlo,46,3,28,3323,262,53,0,12,2,0,30,38,38,11,10,1,6,317,9,3822,96,316,2
+1,Jaden Slory,28,10/03/2025,Competition,10,VVV Venlo,1,2,46,5297,518,157,24,32,6,1,32,76,80,23,33,4,8,591,17,6425,157,598,1
+1,Jaden Slory,28,10/03/2025,Competition,10,VVV Venlo,46,3,49,5228,313,20,0,23,2,0,27,63,79,20,31,6,7,546,18,6192,157,473,2
+1,Jari Schuurman,28,10/03/2025,Competition,10,VVV Venlo,1,2,46,6420,588,100,0,32,6,0,29,62,53,16,14,1,6,590,18,7296,216,616,1
+1,Jari Schuurman,28,10/03/2025,Competition,10,VVV Venlo,46,3,37,4681,420,108,0,24,4,0,29,52,36,9,10,1,3,422,9,5311,160,438,2
+1,Kwame Tabiri,28,10/03/2025,Competition,10,VVV Venlo,60,2,37,4006,340,58,4,21,2,0,30,47,46,6,15,1,6,454,21,4595,139,383,2
+1,Lawson Sunderland,28,10/03/2025,Competition,10,VVV Venlo,75,2,19,2342,174,16,0,8,1,0,27,28,21,5,7,0,3,210,8,2672,81,203,2
+1,Leo Seydoux,28,10/03/2025,Competition,10,VVV Venlo,75,2,19,2078,175,41,6,13,2,0,31,26,25,4,11,0,7,208,4,2440,76,241,2
+1,Marouane Afaker,28,10/03/2025,Competition,10,VVV Venlo,1,2,46,6478,645,91,0,39,5,0,28,81,73,21,27,3,11,643,12,7625,249,686,1
+1,Marouane Afaker,28,10/03/2025,Competition,10,VVV Venlo,46,3,12,1596,117,5,0,7,0,0,26,28,23,5,14,0,4,162,2,1908,66,171,2
+1,Reda Akmum,28,10/03/2025,Competition,10,VVV Venlo,1,2,46,5508,348,51,0,24,3,0,29,60,68,5,18,0,3,559,13,6380,191,440,1
+1,Reda Akmum,28,10/03/2025,Competition,10,VVV Venlo,46,3,49,5059,245,26,0,18,2,0,26,50,55,4,17,0,1,514,11,5823,171,343,2
+1,Sem Valk,28,10/03/2025,Competition,10,VVV Venlo,1,2,46,5170,360,54,16,26,3,1,33,60,59,22,20,4,5,453,14,6109,156,483,1
+1,Sem Valk,28,10/03/2025,Competition,10,VVV Venlo,46,3,49,4705,194,25,0,14,2,0,27,43,47,6,14,1,3,387,16,5379,120,292,2
+1,Sem Verdonk,28,10/03/2025,Competition,10,VVV Venlo,60,2,37,4661,510,103,0,29,5,0,29,69,74,26,28,4,8,463,20,5660,170,628,2
+1,Tom Sanne,28,10/03/2025,Competition,10,VVV Venlo,82,2,12,1247,28,0,0,3,0,0,22,18,20,3,4,0,0,128,10,1437,47,85,2
