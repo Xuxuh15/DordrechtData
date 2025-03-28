@@ -2,11 +2,18 @@ import argparse
 import datetime
 import pandas as pd
 import config as cf
+import os
+
 
 
 
 FILE_PATH = "../TrainingData1.csv"
 DEFAULT_OUTPUT_NAME = 'ProcessedTrainingData'
+
+
+# Define directory for output file and ensure it exists
+output_dir = "../artifacts/"
+os.makedirs(output_dir, exist_ok=True)
 
 
 
@@ -64,7 +71,7 @@ num_players = param_list[4]
 num_periods = param_list[5]
 num_params = param_list[6]
 
-output_file_name = "processedTrainingData" + datetime.datetime.now().strftime("%d-%m-%y") + ".csv"
+output_file_name =  os.path.join(output_dir, output_file_name + datetime.datetime.now().strftime("%d-%m-%y") + ".csv")
 
 
 
@@ -87,7 +94,7 @@ def convert_to_minutes(time_str):
     return total_minutes
 
 
-# Get rid of any extra white space
+# Get rid of any extra white spaces
 raw_data.columns = raw_data.columns.str.strip()
 
 # Filter data by period. We only want periods that are numbers
