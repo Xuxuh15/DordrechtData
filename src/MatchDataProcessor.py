@@ -64,6 +64,7 @@ num_params = param_list[6]
 raw_data = pd.read_csv(file_path, header = index_header)
 
 
+
 # Converts a Hour:Minute:Second time string into value in minutes
 def convert_to_minutes(time_str):
     # Split the time string into hours, minutes, and seconds
@@ -82,7 +83,7 @@ def calculate_half(minute):
         return 2; 
 
 # Filter data by period. We only want periods that are numbers
-data = raw_data[(raw_data['Period Name'].str.len() <= 3) | (raw_data['Period Name'].str.len() <= 3 )].copy()
+data = raw_data[(raw_data['Period Name'].str.isdigit())].copy()
 
 # Rename the columns
 data.columns = column_names
